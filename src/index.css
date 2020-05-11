@@ -1,14 +1,25 @@
+@font-face {
+	font-family: "Haboro Soft Norm Regular";
+	src: url("//db.onlinewebfonts.com/t/247f78c66460ef911348e889c9f500a5.eot");
+	src: url("//db.onlinewebfonts.com/t/247f78c66460ef911348e889c9f500a5.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/247f78c66460ef911348e889c9f500a5.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/247f78c66460ef911348e889c9f500a5.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/247f78c66460ef911348e889c9f500a5.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/247f78c66460ef911348e889c9f500a5.svg#Haboro Soft Norm Regular") format("svg");
+	}
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background: #aaa;
-}
+	margin: 0;
+	font-family: "Haboro Soft Norm Regular", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+	'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+	sans-serif;
+	font-size: 0.8em;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background: #FAFAFA;
+	}
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+	monospace;
+	}
